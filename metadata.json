@@ -1,0 +1,6 @@
+{
+  "name": "Chicken Jump - Worlds & Costumes",
+  "description": "Adorable endless runner with a customizable cartoon chicken character, expressive animations, and 4 unlockable worlds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
